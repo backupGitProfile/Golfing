@@ -1,0 +1,11 @@
+C:\Users\willf\source\repos\GolfPractice\GolfPractice\obj\Debug\netcoreapp3.1\GolfPractice.csprojAssemblyReference.cache
+C:\Users\willf\source\repos\GolfPractice\GolfPractice\obj\Debug\netcoreapp3.1\GolfPractice.AssemblyInfoInputs.cache
+C:\Users\willf\source\repos\GolfPractice\GolfPractice\obj\Debug\netcoreapp3.1\GolfPractice.AssemblyInfo.cs
+C:\Users\willf\source\repos\GolfPractice\GolfPractice\bin\Debug\netcoreapp3.1\GolfPractice.exe
+C:\Users\willf\source\repos\GolfPractice\GolfPractice\bin\Debug\netcoreapp3.1\GolfPractice.deps.json
+C:\Users\willf\source\repos\GolfPractice\GolfPractice\bin\Debug\netcoreapp3.1\GolfPractice.runtimeconfig.json
+C:\Users\willf\source\repos\GolfPractice\GolfPractice\bin\Debug\netcoreapp3.1\GolfPractice.runtimeconfig.dev.json
+C:\Users\willf\source\repos\GolfPractice\GolfPractice\bin\Debug\netcoreapp3.1\GolfPractice.dll
+C:\Users\willf\source\repos\GolfPractice\GolfPractice\bin\Debug\netcoreapp3.1\GolfPractice.pdb
+C:\Users\willf\source\repos\GolfPractice\GolfPractice\obj\Debug\netcoreapp3.1\GolfPractice.dll
+C:\Users\willf\source\repos\GolfPractice\GolfPractice\obj\Debug\netcoreapp3.1\GolfPractice.pdb
